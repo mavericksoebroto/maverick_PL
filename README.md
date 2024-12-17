@@ -15,5 +15,4 @@ https://drive.google.com/file/d/1VUi8pXkhXm5AkOS1MdYTMoKY4oGO3jp_/view?usp=shari
 ### HW3 遊戲介面與 Hugging Face API 串接設定
 https://drive.google.com/file/d/1zZ0mdbsJmmhyy5EVWX-eV1qxdzRR2vHw/view?usp=sharing
 
-### HW4
-### HW5
+## 期末專題繳交區
