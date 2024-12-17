@@ -17,5 +17,8 @@ https://drive.google.com/file/d/1zZ0mdbsJmmhyy5EVWX-eV1qxdzRR2vHw/view?usp=shari
 
 ## 期末專題繳交區
 ### 期末專題發表
-介紹影片
+(1) 介紹影片
 https://youtu.be/Sa8djB5sU2o
+
+(2) 專題程式原始碼 Github 連結
+https://github.com/41271212h/113-1-PL.git
