@@ -16,3 +16,6 @@ https://drive.google.com/file/d/1VUi8pXkhXm5AkOS1MdYTMoKY4oGO3jp_/view?usp=shari
 https://drive.google.com/file/d/1zZ0mdbsJmmhyy5EVWX-eV1qxdzRR2vHw/view?usp=sharing
 
 ## 期末專題繳交區
+### 期末專題發表
+介紹影片
+https://youtu.be/Sa8djB5sU2o
